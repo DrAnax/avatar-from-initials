@@ -1,0 +1,27 @@
+{
+  "name": "avatar-from-initials",
+  "version": "1.0.0",
+  "description": "Generates avatar from string",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [
+    "avatars",
+    "initials",
+    "svg",
+    "javascript"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DrAnax/avatar-from-initials"
+  },
+  "homepage": "https://github.com/DrAnax/avatar-from-initials",
+  "bugs": {
+    "url": "https://github.com/DrAnax/avatar-from-initials/issues"
+  },
+  "author": "Takis Pournaras",
+  "license": "MIT",
+  "devDependencies": {
+    "string-to-color": "^2.2.2",
+    "ui-avatar-svg": "^1.0.0"
+  }
+}
