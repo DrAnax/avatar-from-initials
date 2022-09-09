@@ -20,7 +20,7 @@
   },
   "author": "Takis Pournaras",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "string-to-color": "^2.2.2",
     "ui-avatar-svg": "^1.0.0"
   }
