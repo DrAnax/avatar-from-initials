@@ -61,7 +61,7 @@ const getTextColor = (hexColor) => {
 
 const avatarFromInitials = (str, size = 64) => {
   const initials = getInitials(str);
-  const bgColor = stc(initials);
+  const bgColor = stc(str);
   const fgColor = getTextColor(bgColor);
   const svg = new uiAvatarSvg()
     .text(initials)
